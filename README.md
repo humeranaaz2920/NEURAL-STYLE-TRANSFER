@@ -136,16 +136,5 @@ L_total = α * L_content + β * L_style
 
 - Gatys et al. (2016) - "A Neural Algorithm of Artistic Style"
 - VGG19: Very Deep Convolutional Networks for Large-Scale Image Recognition
-- PyTorch Official Documentation
 
-## License
-
-MIT License - See LICENSE file for details
-
-## Author
-
-Created as a demonstration of Neural Style Transfer techniques using PyTorch and VGG19.
-
----
-
-**Ready to create art? Run the notebook and transform your photos! 🎨**
+*OUTPUT*:<img width="550" height="356" alt="Image" src="https://github.com/user-attachments/assets/c815d14f-5750-48cc-a389-52ea1c0485e9" />
